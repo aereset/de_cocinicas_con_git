@@ -1,0 +1,2 @@
+pizza al horno:
+abres la pizza, la metes al horno a 220ºC. Voila.
